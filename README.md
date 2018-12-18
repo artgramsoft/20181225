@@ -1,2 +1,2 @@
-# 20181225
-2018 christmas letter
+# eggbear.github.io
+My Personal Site
